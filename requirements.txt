@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic
+PyMuPDF>=1.23.0
+python-multipart
+python-dotenv
+openai
